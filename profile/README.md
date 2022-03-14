@@ -2,7 +2,7 @@
 [![stable mirror last update](https://img.shields.io/github/last-commit/Taromati2/stable-mirror?label=stable%20mirror%20last%20update)]( https://github.com/Taromati2/stable-mirror )
 [![last nar build](https://img.shields.io/github/release-date/Taromati2/package-factory?label=last%20nar%20build)]( https://github.com/Taromati2/package-factory )
 
-[![ghost-dev status](https://img.shields.io/github/workflow/status/Taromati2/ghost/auto%20check?label=ghost-dev)]( https://github.com/Taromati2/ghost/actions/workflows/auto_check.yml ) [![Discord Online Num](https://img.shields.io/discord/886249817536348160?label=discord)]( https://discord.gg/RStqy8JEkj )
+[![ghost-dev status](https://img.shields.io/github/workflow/status/Taromati2/ghost/auto%20check?label=ghost-dev)]( https://github.com/Taromati2/ghost/actions/workflows/auto_check.yml ) [![Discord Online Num](https://img.shields.io/discord/886249817536348160?label=discord)]( https://bit.ly/TaroDiscordServer )
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
