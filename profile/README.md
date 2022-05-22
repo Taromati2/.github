@@ -5,6 +5,7 @@
 [![ghost-dev status](https://img.shields.io/github/workflow/status/Taromati2/ghost/auto%20check?label=ghost-dev)]( https://github.com/Taromati2/ghost/actions/workflows/auto_check.yml ) [![Discord Online Num](https://img.shields.io/discord/886249817536348160?label=discord)]( https://bit.ly/TaroDiscordServer )
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Profile Views Counter](https://komarev.com/ghpvc/?username=Taromati2)](https://komarev.com/ghpvc/)
 
 ## 👻关于ghost  
 Taromati2是更新频繁（但都是小修）功能一流（但都是老本）的伪春菜人格（英文：ukagaka ghost）（可能是之一）  
