@@ -10,7 +10,7 @@
 <!--
 my big banner
 -->
-![banner](./big_banner.png)  
+![banner](/profile/big_banner.png)  
 
 ## 👻关于ghost  
 Taromati2是更新频繁（但都是小修）功能一流（但都是老本）的伪春菜人格（英文：ukagaka ghost）（可能是之一）  
