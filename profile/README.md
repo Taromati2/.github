@@ -7,15 +7,16 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=Taromati2)](https://komarev.com/ghpvc/)
 
+<!--
+my big banner
+-->
+![banner](./big_banner.png)  
+
 ## 👻关于ghost  
 Taromati2是更新频繁（但都是小修）功能一流（但都是老本）的伪春菜人格（英文：ukagaka ghost）（可能是之一）  
 如果你只想下载ghost，请跳转至[Taromati2项目]( https://bit.ly/Taromati2 )  
 
 ## 💻关于开发组  
-
-这里等图出来记得放图片
-
-_________
 
 我们是Taromati2开发组！（虽然只有两三人而且大家经常摸鱼）  
 
