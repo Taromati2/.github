@@ -5,25 +5,15 @@ labels: bug
 assignees: steve02081504
 body:
   - type: checkboxes
-    id: latest-release
     attributes:
-      label: "请确保你是在最新版本中遇见此问题\nMake sure you have this bug in the latest release"
+      label: 检查清单 Prerequisites
       options:
-        - label: Confirmed
-    validations:
-      required: true
-
-  - type: checkboxes
-    id: not-cheating
-    attributes:
-      label: "确保你遇见的bug不是因为作弊引起的\nMake sure that bug are not caused by cheating"
-      description: |
-        如果你遇见的bug由作弊引起，我将把你列在项目黑名单中
-        If your bug caused by cheating, I'll block you from this project.
-      options:
-        - label: Confirmed
-    validations:
-      required: true
+      - label: "请确保你是在最新版本中遇见此问题\nMake sure you have this bug in the latest release"
+        id: latest-release
+        required: true
+      - label: "确保你遇见的bug不是因为作弊引起的\nMake sure that bug are not caused by cheating"
+        id: not-cheating
+        required: true
 
   - type: textarea
     id: bug-description
